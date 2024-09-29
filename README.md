@@ -4,5 +4,7 @@ Developed a packet sniffer tool that captures and analyzes network packets. The 
 
 Usage
 Install required dependencies:
+
 pip install scapy
+
 python packet_sniffer.py
